@@ -1,0 +1,8 @@
+# Virtual Environments
+ve/
+
+# Python Cruft
+__pycache__/
+
+# Environment settings
+local_settings.py
